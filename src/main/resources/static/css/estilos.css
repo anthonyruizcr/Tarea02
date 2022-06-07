@@ -1,0 +1,41 @@
+/* 
+    Created on : 30 may. 2022, 16:51:19
+    Author     : ASUS
+*/
+*{
+    font-family: sans-serif;
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-position: initial;
+}
+#estilo1{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+
+.prueba{
+    font: Verdana;
+    background-color:  red;
+    color: white;
+}
+
+a{
+    background-color: red;
+    color: white;
+}
+
+a:hover {
+    background-color: black;
+    color: red;
+}
+
+p:nth-child(odd){
+    background-color: aquamarine;
+    color: red;
+}
+
+p:nth-child(even){
+    background-color: red;
+    color: white;
+}
